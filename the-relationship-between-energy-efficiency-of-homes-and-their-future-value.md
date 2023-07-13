@@ -10,7 +10,7 @@ We will start with the EPC. The EPC (Energy Performance Certificate) is two metr
 
 
 
-![image](https://raw.githubusercontent.com/aratedwp/content/main/images/epc-energy-rating.jpg)
+![image](https://github.com/aratedwp/content/blob/images/epc-energy-rating.jpg)
 #### 2. The Environmental impact of the property</span>
 
 
